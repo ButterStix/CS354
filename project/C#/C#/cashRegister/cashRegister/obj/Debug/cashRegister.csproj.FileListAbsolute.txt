@@ -1,0 +1,10 @@
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\bin\Debug\cashRegister.exe.config
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\bin\Debug\cashRegister.exe
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\bin\Debug\cashRegister.pdb
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\obj\Debug\cashRegister.csprojAssemblyReference.cache
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\obj\Debug\cashRegister.Form1.resources
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\obj\Debug\cashRegister.Properties.Resources.resources
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\obj\Debug\cashRegister.csproj.GenerateResource.cache
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\obj\Debug\cashRegister.csproj.CoreCompileInputs.cache
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\obj\Debug\cashRegister.exe
+C:\Users\andres\Desktop\School STUFF\cs354\projects\C#\cashRegister\cashRegister\obj\Debug\cashRegister.pdb
